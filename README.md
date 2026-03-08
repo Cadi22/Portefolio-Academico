@@ -1,4 +1,4 @@
-#                               Portfólio Académico
+#                               Portefólio Académico
 * **Curso:** Licenciatura em Engenharia Eletrotécnica e das Telecomunicações
 * **Status:** Em curso 
 # Apresentam-se de seguida as implementações técnicas desenvolvidas ao longo da Licenciatura:
