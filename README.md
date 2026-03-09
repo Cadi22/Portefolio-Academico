@@ -43,6 +43,25 @@
 ###  Central Telefónica IP com FreePBX 
 * **O Desafio:** Implementação de central baseada em Open Source (Asterisk).
 * **Solução:** Configuração do protocolo **SIP**, criação de IVR (Atendimento Automático), correio de voz e grupos de chamada.
+  
+## 🛠️ Como Simular estes Projetos
+Todos os projetos listados neste portfólio são **laboratórios interativos**. Para os visualizar e testar:
+
+## Para Redes de Comunicação de Dados I (individual) e II (grupo):
+1. Certifique-se de que tem o **Cisco Packet Tracer** instalado (versão 8.0 ou superior).
+2. Faça o download do ficheiro `.pkt` localizado nas pastas dos projetos.
+3. Abra o ficheiro para explorar as configurações de CLI, topologias e realizar testes de conectividade (Pings, DNS(tradução de nomes), ligação a internet, etc.).
+
+ ## Para Redes com Integração de Serviços, projeto individual:
+1. Certifique-se de que tem o **VirtualBox onde corre um WindowsXP** instalado.
+2. Faça o download do ficheiro `.C3` localizado nas pastas dos projetos.
+3. Abra o ficheiro para explorar as configurações dos COs (Central Office), topologia e efetuar ligações entre as localidades.
+
+## Para Redes com Integração de Serviços, projeto em grupo:
+1. Certifique-se de que tem o **VMware Workstation e um client GNS3** instalado.
+2. Certifique-se de que tem um CIPC (Cisco IP Comunicator), pelo menos 1 ephone e 1 softphone.
+3. Faça o download do ficheiro `.gns3` localizado nas pastas dos projetos.
+4. Abra o ficheiro para explorar as configurações de CLI, topologia e realizar testes de conectividade (Pings, Chamadas VoIP, etc.).
 
 
 ##  Competências Técnicas
@@ -51,4 +70,4 @@
 * **Protocolos:** OSPF, RIPv2, HSRP, SCCP, SIP, NAT/PAT...
 * **Servidores:** DNS, DHCP, HTTP, E-mail, FreePBX/Asterisk.
 
- **Linkedin:** [https://www.linkedin.com/in/cadi-baldé]
+ **Meu linkedin:** [https://www.linkedin.com/in/cadi-baldé]
