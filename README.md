@@ -55,7 +55,7 @@ Todos os projetos listados neste portfólio são **laboratórios interativos**. 
  ## Para Redes com Integração de Serviços, projeto individual:
 1. Certifique-se de que tem o **VirtualBox onde corre um WindowsXP** instalado.
 2. Faça o download do ficheiro `.C3` localizado nas pastas dos projetos.
-3. Abra o ficheiro para explorar as configurações dos COs (Central Office), topologia e efetuar ligações entre as localidades.
+3. Abra o ficheiro para explorar as configurações dos COs (Central Office),dos Call Source, topologia e efetuar ligações entre as localidades.
 
 ## Para Redes com Integração de Serviços, projeto em grupo:
 1. Certifique-se de que tem o **VMware Workstation e um client GNS3** instalado.
